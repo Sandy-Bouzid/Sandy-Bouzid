@@ -6,8 +6,8 @@ My main programming language is PHP. I also like the Symfony framework.
 #### Find Me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/sandy-bouzid/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Logo"></a>
-<a href="https://sandy-bouzid.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="LinkedIn Logo"></a>
+<a href="https://www.linkedin.com/in/sandy-bouzid/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white" alt="LinkedIn Logo"></a>
+<a href="https://sandy-bouzid.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3b5998?style=plastic&logo=google-chrome&logoColor=white" alt="Portfolio Logo"></a>
 </div>
 
 #### Markup languages
